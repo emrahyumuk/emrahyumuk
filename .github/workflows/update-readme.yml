@@ -10,8 +10,7 @@ on:
       - master
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: '0 0 * * *'
+    - cron: '*/30 * * * *'
 
 jobs:
   update-readme:
@@ -22,3 +21,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
