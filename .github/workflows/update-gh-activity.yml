@@ -1,6 +1,7 @@
 name: update-gh-activity
 
 on:
+  push:
   schedule:
     - cron: '30 * * * *'
 
