@@ -1,0 +1,2 @@
+- name: update-gh-activity
+  uses: jamesgeorge007/github-activity-readme@v0.1.5
