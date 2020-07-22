@@ -16,14 +16,13 @@ Markdown     54 mins         ██░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<style>
+**:desktop_computer: Technology Stack:**
+
+(setq markdown-xhtml-header-content
+"<style>
 img[src*="#thumbnail"] {
 height:100px;
-}
-
-</style>
-
-**:desktop_computer: Technology Stack:**
+}</style>")
 
 ![](https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-original.svg#thumbnail) &nbsp; &nbsp;
 ![](https://raw.githubusercontent.com/konpa/devicon/master/icons/nodejs/nodejs-original-wordmark.svg#thumbnail) &nbsp; &nbsp;
