@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="assets/css/style.css">
-
 ### Hi there 👋
 
 **:bar_chart: Weekly Development Breakdown:**
