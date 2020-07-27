@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 July, 2020 - 25 July, 2020
+Week: 19 July, 2020 - 26 July, 2020
 
 JavaScript   4 hrs 51 mins   ████████░░░░░░░░░░░░░░░░░   35.25 % 
 Vue.js       2 hrs 39 mins   ████░░░░░░░░░░░░░░░░░░░░░   19.24 % 
