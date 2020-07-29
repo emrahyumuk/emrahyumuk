@@ -1,21 +1,5 @@
 ### Hi there 👋
 
-**:bar_chart: Weekly Development Breakdown:**
-
-<!--START_SECTION:waka-->
-
-```text
-Week: 21 July, 2020 - 28 July, 2020
-
-Vue.js       3 hrs 32 mins   ████████░░░░░░░░░░░░░░░░░   32.79 %
-JavaScript   2 hrs 42 mins   ██████░░░░░░░░░░░░░░░░░░░   25.13 %
-Markdown     1 hr 24 mins    ███░░░░░░░░░░░░░░░░░░░░░░   13.01 %
-SCSS         1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   10.24 %
-CSS          39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-```
-
-<!--END_SECTION:waka-->
-
 **:desktop_computer: Technology Stack:**
 
 <img src="https://cdn.rawgit.com/konpa/devicon/master/icons/javascript/javascript-original.svg" height="60" /> &nbsp; &nbsp;
