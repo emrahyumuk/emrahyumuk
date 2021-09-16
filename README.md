@@ -29,8 +29,6 @@
 <img src="https://cdn.rawgit.com/konpa/devicon/master/icons/electron/electron-original.svg" height="60" />&nbsp; &nbsp;
 <img src="https://cdn.rawgit.com/konpa/devicon/master/icons/gimp/gimp-original-wordmark.svg" height="60" />&nbsp; &nbsp;
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=emrahyumuk-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!--
 **emrahyumuk/emrahyumuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
